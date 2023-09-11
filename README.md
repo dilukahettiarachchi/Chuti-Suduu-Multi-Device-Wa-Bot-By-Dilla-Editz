@@ -1,72 +1,46 @@
 
 
-<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩8ꫂ<br></h1>
-<p align="center">
-<img src="https://i.ibb.co/cLtCXVm/chutisuduupic.jpg" width="540" height="280" />
-</p>
+<p align="center">  
+    <a href="https://i.ibb.co/WyR2Bff/Chuti-Sudu-MD.jpg">
+      <img alt="secktor docs" height="300" src="https://i.ibb.co/WyR2Bff/Chuti-Sudu-MD.jpg">
+      <h1 align="center"> Chuti &nbsp; Suduu &nbsp; MD </h1>
+    </a>
+  </p>  
+  <p align="center">
+    <a aria-label="Join our chats" href="https://chat.whatsapp.com/I7TzWWxNhe1A0FMQjx86x5
+" target="_blank">
+      <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    </a>
+  <a aria-label="Bot Whatsapp" href="https://wa.me/+94767630094?text=.menu" target="_blank">
+      <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    </a>
+    
+  </p>
 
-<p align="center">
-chutisuduu Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/DGDilla" target="_blank">Dilla</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
-</p>
-
-<p align="center">
-<a href="https://youtu.be/L_SIk59QeAU"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
-</p>
-
-------
-
-# ```Bot Info```
-<p align="center">
-<a href="https://github.com/DGDilla/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGDilla?color=red&style=flat-square"></a>
-<a href="https://github.com/DGDilla/chutisuduuBot-MD8/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DGDilla/chutisuduuBot-MD8?color=blue&style=flat-square"></a>
-<a href="https://github.com/DGDilla/chutisuduuBot-MD8/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGDilla/chutisuduuBot-MD8?color=red&style=flat-square"></a>
-<a href="https://github.com/DGDilla/chutisuduuBot-MD8/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DGDilla/chutisuduuBot-MD8?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/DGDilla/chutisuduuBot-MD8"><img title="Open Source" src="https://img.shields.io/badge/Author-Dilla%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/DGDilla/chutisuduuBot-MD8/"><img title="Size" src="https://img.shields.io/github/repo-size/DGDilla/chutisuduuBot-MD8?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGDilla%2FchutisuduuBot-MD8&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/DGDilla/chutisuduuBot-MD8/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-    </p>
-
--------
-
-## ```Connect With Me```
-<p align="center">
-<a href="https://wa.me/94764570094"><img src="https://img.shields.io/badge/Contact Dilla-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/Kjm8rnDFcpb04gQNSTbW2d"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe Dilla-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DGDilla" /><br>
-</p>
-
-## ```Donate Me```
-
-- [`FamPay`](https://i.ibb.co/w46VQ8D/Picsart-22-10-08-06-46-30-674.jpg)
-
-<p align="left">
-Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
-</p>
-
-## ```Bot Support Group Chats```
-
-- [`1st GC`](https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH)
-- [`2nd GC`](https://chat.whatsapp.com/BW0o3ZyiAF5Azb1bIqG9Ue)
-- [`3rd GC`](https://chat.whatsapp.com/KMymhLdGcjPHihOkrfHW7q)
-
+---
+  
+  <p align="center"><img src="https://profile-counter.glitch.me/{dilukahettiarachchi}/count.svg" alt="dilukahettiarachchi :: Visitor's Count" /></p>
+  
+  <p align="center">
+     <a href="https://github.com/dilukahettiarachchi"><img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=Chuti+Suduu+Multi+Device;Dilla+Editz;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+  </p>
+  
+---
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/DGDilla/chutisuduuBot-MD8/fork)
+- FORK THE REPOSITORY [Here](https://github.com/dilukahettiarachchi/Chuti-Suduu-Md-V1/fork)
 
 ## `Scan QR Code For Session`
-[![chutisuduu Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGDilla/chutisuduu-Bot-Multi-Auth-Session-Generator?v=1)
+[![Chuti Sudu Md](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@dilukahettiarac/Chuti-Suduu-Wa-Bot-Multi-Auth-Session-Generator)
 
-## ` BUILDPACKS`
+## `Heroku BUILDPACKS`
 
 ```
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGDilla/chutisuduuBot-MD8/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dilukahettiarachchi/Chuti-Suduu-Md-V1/)
 
 # Install Manually 👇
 ## `Requirements`
@@ -77,8 +51,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/DGDilla/chutisuduuBot-MD8.git
-cd chutisuduuBot-MD8
+git clone https://github.com/dilukahettiarachchi/Chuti-Suduu-Md-V1.git
+cd Chuti-Suduu-Md-V1
 
 npm start
 ```
@@ -94,8 +68,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DGDilla/chutisuduuBot-MD8
-cd chutisuduuBot-MD8
+git clone https://github.com/dilukahettiarachchi/Chuti-Suduu-Md-V1
+cd Chuti-Suduu-Md-V1
 yarn install
 npm start
 ```
@@ -107,11 +81,20 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/DGDilla/chutisuduuBot-MD8
-cd chutisuduuBot-MD8
+git clone https://github.com/dilukahettiarachchi/Chuti-Suduu-Md-V1
+cd Chuti-Suduu-Md-V1
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
+---
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dilukahettiarachchi/Chuti-Suduu-Md-V1&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+  
+  ![forks](https://img.shields.io/github/forks/dilukahettiarachchi/Chuti-Suduu-Md-V1?label=Forks&style=social)
+  
+  ![stars](https://img.shields.io/github/stars/dilukahettiarachchi/Chuti-Suduu-Md-V1?style=social)
+
+
+
